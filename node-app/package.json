@@ -1,0 +1,11 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Simple demo app for K8S",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "email2barun@gmail.com",
+  "license": "ISC"
+}
