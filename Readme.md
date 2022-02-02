@@ -1,8 +1,16 @@
-# Training Outline
+# Kubernetes Training 1
+
+Introductory Training session for Kubernetes
+
+## Outline
 
 * Create a simple NodeJS app
 * Run the app locally using node 
 * Run the app in docker
+    * Dockerfile
+    * Docker image
+    * Create Container
+    * Push image to Docker Hub
 * Deploy the app in a Kubernetes cluster
     * Pod
     * Deployment
