@@ -1,3 +1,14 @@
+# Training Outline
+
+* Create a simple NodeJS app
+* Run the app locally using node 
+* Run the app in docker
+* Deploy the app in a Kubernetes cluster
+    * Pod
+    * Deployment
+    * Service
+    * Ingress 
+
 # Demo app - NodeJS
 
 Directory: k8s-demo-node-app
@@ -37,9 +48,6 @@ Virtualization is the technique of importing a Guest operating system on top of 
 
 Docker Architecture [https://docs.docker.com/get-started/overview/#docker-architecture]
 Docker Architecture Diagrem [https://docs.docker.com/engine/images/architecture.svg]
-
-
-
 
 Install Docker Desktop [https://www.docker.com/products/docker-desktop]
 Getting Started [https://docs.docker.com/get-started/]
