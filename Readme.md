@@ -1,6 +1,6 @@
-# Kubernetes Training 1
+# Kubernetes Training 1.0
 
-Introductory Training session for Kubernetes
+Introductory training session for Kubernetes
 
 ## Outline
 
